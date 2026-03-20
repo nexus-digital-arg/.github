@@ -1,4 +1,6 @@
 <div align="center">                                                                                                       
+
+  <img src="https://github.com/user-attachments/assets/7b381665-4cd2-4866-b3fb-2041416c35cb" alt="Nexus Digital Logo" width="200"/>
                            
   # Nexus Digital                                                                                                            
                                                                                                                            
